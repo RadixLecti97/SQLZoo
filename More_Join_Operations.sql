@@ -1,4 +1,4 @@
-Solutions to the [Problem Set in SQLZoo.net](https://sqlzoo.net/wiki/More_JOIN_operations)
+Solutions to the Problem Set in (https://sqlzoo.net/wiki/More_JOIN_operations)
 
 #1. List the films where the yr is 1962 [Show id, title]
 SELECT id, title
